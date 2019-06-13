@@ -1,2 +1,0 @@
-# testrepa
-testoviy repositoriy
